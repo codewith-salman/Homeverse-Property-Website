@@ -20,12 +20,12 @@ Designed to showcase properties seamlessly across desktop and mobile devices wit
 ## 📖 About The Project
 
 <!-- 🖥️ Desktop View -->
-<img src="HomeverseProperty/assets/images/desktop.png" alt="Homeverse Property Website Desktop View" width="100%" />
+<img src="Homeverse%20Property%20Website/assets/images/desktop.png" alt="Homeverse Property Website Desktop View" width="100%" />
 
 <br /><br />
 
 <!-- 📱 Mobile View -->
-<img src="HomeverseProperty/assets/images/mobile.png" alt="Homeverse Property Website Mobile View" width="40%" />
+<img src="Homeverse%20Property%20Website/assets/images/mobile.png" alt="Homeverse Property Website Mobile View" width="100%" />
 
 The **Homeverse Property Website** is a polished and responsive real estate UI concept designed for modern property platforms.  
 It presents property listings, agent profiles, and real estate services in a structured and visually appealing manner on all screen sizes.
