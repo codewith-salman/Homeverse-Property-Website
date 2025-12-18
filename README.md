@@ -3,11 +3,6 @@
 <br />
 <div align="center">
 
-<!-- 🔥 LOGO -->
-<img src="https://raw.githubusercontent.com/salman-webdevexp/assets/main/logo.png" alt="Homeverse Property Logo" width="120" />
-
-<br /><br />
-
 ## 🏡 Homeverse – Property Website  
 A modern, elegant, and fully responsive **Real Estate Property Website UI** built using HTML, CSS, and JavaScript.  
 Designed to showcase properties seamlessly across desktop and mobile devices with a clean and professional layout.
@@ -49,8 +44,7 @@ Perfect for:
 - Property listing cards with key details  
 - Optimized mobile navigation  
 - Smooth hover and transition effects  
-- Agent and contact sections  
-- Easy to customize and scale  
+- Agent and contact sections   
 
 ---
 
