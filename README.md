@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Homeverse%20Property%20Website/assets/images/desktop.png" alt="Homeverse Website Logo" width="120"/>
+<img src="Homeverse%20Property%20Website/assets/images/logo.png" alt="Homeverse Website Logo" width="120"/>
 
 <br />
 <br />
