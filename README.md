@@ -65,7 +65,6 @@ Ideal for:
 - Real estate agencies  
 - Property listing platforms  
 - Rental and housing websites  
-- Responsive UI portfolio projects  
 - Practice with mobile-first layouts  
 
 ---
