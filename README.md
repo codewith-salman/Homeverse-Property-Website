@@ -21,7 +21,6 @@
 <img src="Homeverse%20Property%20Website/assets/images/logo.png" alt="Homeverse Website Logo" width="120"/>
 
 <br />
-<br />
 
 <h1 align="center">🏡 Homeverse – Property Website</h1>
 
@@ -69,8 +68,6 @@ Ideal for:
 - Responsive UI portfolio projects  
 - Practice with mobile-first layouts  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -82,8 +79,6 @@ Ideal for:
 - Smooth hover and transition effects  
 - Agent and contact sections  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -91,8 +86,6 @@ Ideal for:
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
