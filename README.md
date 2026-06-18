@@ -72,7 +72,6 @@ Ideal for:
 ## ✨ Features
 
 - Fully responsive design (desktop & mobile)  
-- Clean and modern real estate UI  
 - Property listing cards with key details  
 - Optimized mobile navigation   
 - Agent and contact sections  
